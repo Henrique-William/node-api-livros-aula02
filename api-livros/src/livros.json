@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Admirável Miundo Novo",
+        "descrição": "Um clássico moderno, o romance distópico de Aldous Huxley é indispensável para quem busca leituras sobre autoritarismo, manipulação gen´rtica",
+        "autor": "Aldous Huxley",
+        "anoPublicacao": 1932
+    },
+    {
+        "id": 2,
+        "titulo": "1984",
+        "descrição": "Uma das obras mais contundentes e influentes do século XX ganha nova e difinitiva edição com o projeto especial e ampla fortuna crítica. Romance",
+        "autor": "George Orwell",
+        "anoPublicacao": 1949
+    },
+    {
+        "id": 3,
+        "titulo": "Laranjja Mecânica",
+        "descrição": "Publicado pela primeira vez em 1962, e imortalizado 9 anos depois pelo filme de Stanley Kubrick, Laranja Mecânica não só está entre os clássicos",
+        "autor": "Anthony Burgess",
+        "anoPublicacao": 1962
+    },
+    {
+        "id": 4,
+        "titulo": "Neuromancer",
+        "descrição": "O céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra percusora do movimento cyberpunk e um clássico da ficção",
+        "autor": "William gibson",
+        "anoPublicacao": 1984
+    }
+]
